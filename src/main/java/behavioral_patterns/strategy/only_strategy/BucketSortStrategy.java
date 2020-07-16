@@ -1,4 +1,4 @@
-package behavioralpatterns.strategy.only_strategy;
+package behavioral_patterns.strategy.only_strategy;
 
 /**
  * @Author OliverYu

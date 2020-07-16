@@ -1,4 +1,4 @@
-package creationalpatterns.singleton.singleton_03;
+package creational_patterns.singleton.singleton_03;
 
 /**
  * @Author OliverYu
